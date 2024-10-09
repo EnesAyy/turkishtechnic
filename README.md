@@ -18,3 +18,6 @@ ViewModelden aldığımız verileri ise mainactivityde kullanarak verilerimizi b
 
 
 
+![Ekran görüntüsü 2024-10-09 170343](https://github.com/user-attachments/assets/f4581562-d775-40e6-bbaf-607fde7c073b)
+![Ekran görüntüsü 2024-10-09 170430](https://github.com/user-attachments/assets/7176f4db-b708-4e93-8d88-3a0d69b5d054)
+![Ekran görüntüsü 2024-10-09 170410](https://github.com/user-attachments/assets/a5d7bba2-c694-439d-a0b7-c82a39ecca6c)
